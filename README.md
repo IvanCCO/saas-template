@@ -2,6 +2,9 @@
 
 Transform your ideas into reality with this ready-to-use SaaS template. Featuring a pre-built, well-structured codebase packed with integrations, this template makes development effortless. Plus, it’s thoroughly documented to get you started right away.
 
+> [!NOTE]  
+> The idea of this template is to help start a SaaS project fast, and just change the bussiness domain as needed.
+
 🌟 Features
 - **MongoDB** with Mongoose for seamless database management
 - **Resend** for effortless email handling

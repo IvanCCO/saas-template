@@ -59,15 +59,11 @@ Transform your ideas into reality with this ready-to-use SaaS template. Featurin
 
 ## Getting Started
 
-1. You can either click `Use this template` button on this repository and clone the repo or directly from your terminal:
+1. You can either click `Use this template` button on this repository and clone the repo
 
-```bash
-npx degit agustinusnathaniel/nextarter-chakra <YOUR_APP_NAME>
-```
+3. After cloning the project, run this command: `pnpm` or `pnpm install`
 
-2. After cloning the project, run this command: `pnpm` or `pnpm install`
-
-3. Then, run the development server:
+4. Then, run the development server:
 
 ```bash
 pnpm dev

@@ -45,6 +45,11 @@ Transform your ideas into reality with this ready-to-use SaaS template. Featurin
   - [ ] email/password Provider
   - [ ] Confirm email
   - [ ] Document
+- [ ] Internacionalization
+  - [ ] Hook - useLanguage() to fetch literals
+  - [ ] English - Portuguese - Spanish
+- [ ] Metadata with Internacionalization (SEO)
+  - [ ] Ease and clean way to get the metadata of a page
 
 
 ## Pre-requisites

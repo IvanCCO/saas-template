@@ -50,6 +50,9 @@ Transform your ideas into reality with this ready-to-use SaaS template. Featurin
   - [ ] English - Portuguese - Spanish
 - [ ] Metadata with Internacionalization (SEO)
   - [ ] Ease and clean way to get the metadata of a page
+- [ ] Metrics / Analytics
+  - [ ] Google Analytics
+  - [ ] Microsoft Clarity
 
 
 ## Pre-requisites
